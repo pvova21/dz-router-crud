@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz-router-crud/static/css/main.cb1d5fe8.css",
+    "main.js": "/dz-router-crud/static/js/main.0f668ae6.js",
+    "static/js/787.ab9e428a.chunk.js": "/dz-router-crud/static/js/787.ab9e428a.chunk.js",
+    "index.html": "/dz-router-crud/index.html",
+    "main.cb1d5fe8.css.map": "/dz-router-crud/static/css/main.cb1d5fe8.css.map",
+    "main.0f668ae6.js.map": "/dz-router-crud/static/js/main.0f668ae6.js.map",
+    "787.ab9e428a.chunk.js.map": "/dz-router-crud/static/js/787.ab9e428a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb1d5fe8.css",
+    "static/js/main.0f668ae6.js"
+  ]
+}
